@@ -2,28 +2,33 @@ class Solution {
     public int numDecodings(String s) {
         int n = s.length();
 
-        // int[] dp = new int[n + 1];
-        ArrayList<Integer> list = new ArrayList<>(n);
-
-        for (int i = 0; i <= n; i++) {
-            list.add(0);
+        if (n == 0 || s.charAt(0) == '0') {
+            return 0;
         }
 
-        list.set(n, 1);
+        int prev1 = 1;
+        int prev2 = 0;
 
-        for (int i = n - 1; i >= 0; i--) {
-            if (s.charAt(i) != '0') {
-                list.set(i, list.get(i + 1));
+        for (int i = 1; i <= n; i++) {
+            int count = 0;
+
+            if (s.charAt(i - 1) != '0') {
+                count += prev1;
             }
 
-            if ((i + 1 < n) &&
-                    ((s.charAt(i) == '1' && s.charAt(i + 1) <= '9') ||
-                            (s.charAt(i) == '2' && s.charAt(i + 1) <= '6'))) {
-                list.set(i, list.get(i) + list.get(i + 2));
+            if (i > 1) {
+                int dig = (s.charAt(i - 2) - '0') * 10 + (s.charAt(i - 1) - '0');
+
+                if (dig >= 10 && dig <= 26) {
+                    count += prev2;
+                }
             }
+
+            prev2 = prev1;
+            prev1 = count;
         }
 
-        return list.get(0);
-        /// return
+        return prev1;
+        // return;
     }
 }
