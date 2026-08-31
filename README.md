@@ -28,4 +28,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1106-parsing-a-boolean-expression](https://github.com/AdnanCodist/leetCodeWork/tree/main/1106-parsing-a-boolean-expression/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdnanCodist/leetCodeWork/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdnanCodist/leetCodeWork/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdnanCodist/leetCodeWork/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
