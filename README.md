@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0063-unique-paths-ii/) | Medium |
 | [0091-decode-ways](https://github.com/AdnanCodist/leetCodeWork/tree/main/0091-decode-ways/) | Medium |
 | [0639-decode-ways-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0639-decode-ways-ii/) | Hard |
 ## Stack
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0063-unique-paths-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdnanCodist/leetCodeWork/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -44,4 +46,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AdnanCodist/leetCodeWork/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0063-unique-paths-ii/) | Medium |
 <!---LeetCode Topics End-->
