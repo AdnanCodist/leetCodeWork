@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdnanCodist/leetCodeWork/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdnanCodist/leetCodeWork/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3904-smallest-stable-index-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/3904-smallest-stable-index-ii/) | Medium |
 <!---LeetCode Topics End-->
