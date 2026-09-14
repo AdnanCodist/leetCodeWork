@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/AdnanCodist/leetCodeWork/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0639-decode-ways-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0639-decode-ways-ii/) | Hard |
 | [0740-delete-and-earn](https://github.com/AdnanCodist/leetCodeWork/tree/main/0740-delete-and-earn/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/AdnanCodist/leetCodeWork/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdnanCodist/leetCodeWork/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/AdnanCodist/leetCodeWork/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3870-count-commas-in-range](https://github.com/AdnanCodist/leetCodeWork/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -93,4 +95,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0740-delete-and-earn](https://github.com/AdnanCodist/leetCodeWork/tree/main/0740-delete-and-earn/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/2405-optimal-partition-of-string/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/AdnanCodist/leetCodeWork/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
