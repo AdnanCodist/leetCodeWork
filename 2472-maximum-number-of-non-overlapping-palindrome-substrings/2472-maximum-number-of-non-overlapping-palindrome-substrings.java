@@ -8,41 +8,29 @@ class Solution {
 
         int[][] tb = new int[n + 1][n + 1];
 
-        for (int[] nums : tb) {
-            Arrays.fill(nums, -1);
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = n - 1; j >= 0; j--) {
+
+                // palindrome
+                if (isPal(s, i, j)) {
+
+                    int next = 1 + ((j + k) < n ? tb[j + 1][j + k] : 0);
+                    int grow = tb[i][j + 1];
+                    int slide = tb[i + 1][j + 1];
+
+                    tb[i][j] = Math.max(next, Math.max(grow, slide));
+                } else {
+                    //no pal
+                    int grow = tb[i][j + 1];
+                    int slide = tb[i + 1][j + 1];
+
+                    tb[i][j] = Math.max(grow, slide);
+                }
+            }
         }
 
-        return solver(s, k, 0, k - 1, tb);
-    }
+        return tb[0][k - 1];
 
-    // solver
-    public int solver(String s, int k, int i, int j, int[][] tb) {
-        // base-case
-        if (i >= s.length() || j >= s.length()) {
-            return 0;
-        }
-
-        // check memo
-        if (tb[i][j] != -1) {
-            return tb[i][j];
-        }
-
-        // palindrome found
-        if (isPal(s, i, j)) {
-
-            int next = 1 + solver(s, k, j + 1, j + k, tb); // tatally a new start
-            int grow = solver(s, k, i, j + 1, tb);
-            int slide = solver(s, k, i + 1, j + 1, tb);
-
-            return tb[i][j] = Math.max(next, Math.max(grow, slide));
-        }
-
-        //htere is no palimdrome
-        int grow = solver(s, k, i, j + 1, tb);
-        int slide = solver(s, k, i + 1, j + 1, tb);
-
-        return tb[i][j] = Math.max(grow, slide);
-        // return
     }
 
     //palindrome hai ???
