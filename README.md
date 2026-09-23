@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/AdnanCodist/leetCodeWork/tree/main/0835-image-overlap/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdnanCodist/leetCodeWork/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdnanCodist/leetCodeWork/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdnanCodist/leetCodeWork/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AdnanCodist/leetCodeWork/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0740-delete-and-earn](https://github.com/AdnanCodist/leetCodeWork/tree/main/0740-delete-and-earn/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -142,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
