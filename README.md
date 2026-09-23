@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdnanCodist/leetCodeWork/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdnanCodist/leetCodeWork/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/AdnanCodist/leetCodeWork/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdnanCodist/leetCodeWork/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/AdnanCodist/leetCodeWork/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AdnanCodist/leetCodeWork/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
