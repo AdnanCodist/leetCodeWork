@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0091-decode-ways](https://github.com/AdnanCodist/leetCodeWork/tree/main/0091-decode-ways/) | Medium |
 | [0639-decode-ways-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0639-decode-ways-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/AdnanCodist/leetCodeWork/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/2405-optimal-partition-of-string/) | Medium |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/AdnanCodist/leetCodeWork/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/AdnanCodist/leetCodeWork/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdnanCodist/leetCodeWork/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 ## Prefix Sum
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0740-delete-and-earn](https://github.com/AdnanCodist/leetCodeWork/tree/main/0740-delete-and-earn/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/2405-optimal-partition-of-string/) | Medium |
@@ -163,8 +167,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/AdnanCodist/leetCodeWork/tree/main/0078-subsets/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/AdnanCodist/leetCodeWork/tree/main/0078-subsets/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
