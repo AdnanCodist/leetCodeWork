@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0020-valid-parentheses/) | Easy |
 | [0091-decode-ways](https://github.com/AdnanCodist/leetCodeWork/tree/main/0091-decode-ways/) | Medium |
 | [0639-decode-ways-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0639-decode-ways-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0020-valid-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/AdnanCodist/leetCodeWork/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdnanCodist/leetCodeWork/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdnanCodist/leetCodeWork/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AdnanCodist/leetCodeWork/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
