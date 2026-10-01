@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/AdnanCodist/leetCodeWork/tree/main/0134-gas-station/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdnanCodist/leetCodeWork/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/AdnanCodist/leetCodeWork/tree/main/0198-house-robber/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/AdnanCodist/leetCodeWork/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0740-delete-and-earn](https://github.com/AdnanCodist/leetCodeWork/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/AdnanCodist/leetCodeWork/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdnanCodist/leetCodeWork/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdnanCodist/leetCodeWork/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AdnanCodist/leetCodeWork/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -166,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Geometry
