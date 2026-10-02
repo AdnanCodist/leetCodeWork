@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0022-generate-parentheses/) | Medium |
 | [0091-decode-ways](https://github.com/AdnanCodist/leetCodeWork/tree/main/0091-decode-ways/) | Medium |
 | [0639-decode-ways-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0639-decode-ways-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/AdnanCodist/leetCodeWork/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/AdnanCodist/leetCodeWork/tree/main/0070-climbing-stairs/) | Easy |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/AdnanCodist/leetCodeWork/tree/main/0078-subsets/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -198,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdnanCodist/leetCodeWork/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AdnanCodist/leetCodeWork/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
