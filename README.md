@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0091-decode-ways](https://github.com/AdnanCodist/leetCodeWork/tree/main/0091-decode-ways/) | Medium |
 | [0639-decode-ways-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0639-decode-ways-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0062-unique-paths](https://github.com/AdnanCodist/leetCodeWork/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/AdnanCodist/leetCodeWork/tree/main/0070-climbing-stairs/) | Easy |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/AdnanCodist/leetCodeWork/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdnanCodist/leetCodeWork/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/AdnanCodist/leetCodeWork/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdnanCodist/leetCodeWork/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AdnanCodist/leetCodeWork/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
