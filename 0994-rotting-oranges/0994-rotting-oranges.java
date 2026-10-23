@@ -1,66 +1,79 @@
+
+
+
+class Pair {
+    int row, col;
+
+    Pair(int row, int col) {
+        this.row = row;
+        this.col = col;
+    }
+}
+
 class Solution {
     public int orangesRotting(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
 
-        Queue<int[]> q = new LinkedList<>();
-        int ans = 0;
+        Queue<Pair> q = new LinkedList<>();
+        boolean[][] vis = new boolean[n][m];
 
-        // store initial rotten idxs
+        // Add every initially rotten orange
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (grid[i][j] == 2) {
-                    q.add(new int[] { i, j });
+                    q.add(new Pair(i, j));
+                    vis[i][j] = true;
                 }
             }
         }
 
-        int[][] directions = { { -1, 0 }, { 0, -1 }, { 0, 1 }, { 1, 0 } }; // top - bottom - right - left
+        int time = 0;
+
+        int[] dr = {-1, 0, 1, 0};
+        int[] dc = {0, 1, 0, -1};
 
         while (!q.isEmpty()) {
-            boolean happened = false;
             int size = q.size();
+            boolean changed = false;
 
-            for (int i = 0; i < size; i++) {
-                // node coord
-                int[] node = q.poll();
-                int x = node[0];
-                int y = node[1];
+            for (int k = 0; k < size; k++) {
+                Pair p = q.poll();
 
-                for (int[] dirs : directions) {
-                    int nx = x + dirs[0];
-                    int ny = y + dirs[1];
+                int row = p.row;
+                int col = p.col;
 
-                    if (isSafe(nx, ny, n, m) && grid[nx][ny] == 1) {
-                        happened = true;
-                        grid[nx][ny] = 2;
-                        q.add(new int[] { nx, ny });
+                for (int d = 0; d < 4; d++) {
+                    int nr = row + dr[d];
+                    int nc = col + dc[d];
+
+                    if (nr >= 0 && nr < n &&
+                        nc >= 0 && nc < m &&
+                        grid[nr][nc] == 1 &&
+                        !vis[nr][nc]) {
+
+                        vis[nr][nc] = true;
+                        grid[nr][nc] = 2;
+
+                        q.add(new Pair(nr, nc));
+                        changed = true;
                     }
                 }
             }
 
-            if (happened)
-                ans++;
-        }
-
-        // final check for unrechable fresh oramge
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 1)
-                    return -1;
+            if (changed) {
+                time++;
             }
         }
 
-        return ans;
-        // rtetiurn
-    }
-
-    // helper
-    public boolean isSafe(int i, int j, int n, int m) {
-        if (i >= 0 && i < n && j >= 0 && j < m) {
-            return true;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 1) {
+                    return -1;
+                }
+            }
         }
 
-        return false;
+        return time;
     }
 }
