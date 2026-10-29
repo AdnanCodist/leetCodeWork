@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/AdnanCodist/leetCodeWork/tree/main/0198-house-robber/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/AdnanCodist/leetCodeWork/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/AdnanCodist/leetCodeWork/tree/main/0509-fibonacci-number/) | Easy |
+| [0542-01-matrix](https://github.com/AdnanCodist/leetCodeWork/tree/main/0542-01-matrix/) | Medium |
 | [0639-decode-ways-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0639-decode-ways-ii/) | Hard |
 | [0740-delete-and-earn](https://github.com/AdnanCodist/leetCodeWork/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/AdnanCodist/leetCodeWork/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/AdnanCodist/leetCodeWork/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/AdnanCodist/leetCodeWork/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0542-01-matrix](https://github.com/AdnanCodist/leetCodeWork/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/AdnanCodist/leetCodeWork/tree/main/0733-flood-fill/) | Easy |
 | [0740-delete-and-earn](https://github.com/AdnanCodist/leetCodeWork/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/AdnanCodist/leetCodeWork/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0063-unique-paths-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/AdnanCodist/leetCodeWork/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/AdnanCodist/leetCodeWork/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/AdnanCodist/leetCodeWork/tree/main/0733-flood-fill/) | Easy |
 | [0835-image-overlap](https://github.com/AdnanCodist/leetCodeWork/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/AdnanCodist/leetCodeWork/tree/main/0994-rotting-oranges/) | Medium |
@@ -205,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/AdnanCodist/leetCodeWork/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/AdnanCodist/leetCodeWork/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/AdnanCodist/leetCodeWork/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/AdnanCodist/leetCodeWork/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/AdnanCodist/leetCodeWork/tree/main/0994-rotting-oranges/) | Medium |
