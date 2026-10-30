@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/AdnanCodist/leetCodeWork/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/AdnanCodist/leetCodeWork/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/AdnanCodist/leetCodeWork/tree/main/0134-gas-station/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdnanCodist/leetCodeWork/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/AdnanCodist/leetCodeWork/tree/main/0198-house-robber/) | Medium |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0063-unique-paths-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/AdnanCodist/leetCodeWork/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AdnanCodist/leetCodeWork/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/AdnanCodist/leetCodeWork/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/AdnanCodist/leetCodeWork/tree/main/0733-flood-fill/) | Easy |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AdnanCodist/leetCodeWork/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AdnanCodist/leetCodeWork/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/AdnanCodist/leetCodeWork/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/AdnanCodist/leetCodeWork/tree/main/0547-number-of-provinces/) | Medium |
@@ -225,12 +228,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AdnanCodist/leetCodeWork/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AdnanCodist/leetCodeWork/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/AdnanCodist/leetCodeWork/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/AdnanCodist/leetCodeWork/tree/main/0733-flood-fill/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AdnanCodist/leetCodeWork/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AdnanCodist/leetCodeWork/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/AdnanCodist/leetCodeWork/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
