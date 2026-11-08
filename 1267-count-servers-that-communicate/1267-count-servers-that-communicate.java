@@ -1,52 +1,36 @@
 class Solution {
-    int n;
-    int m;
-
     public int countServers(int[][] grid) {
-        n = grid.length;
-        m = grid[0].length;
+        // appr 2
+        int n = grid.length;
+        int m = grid[0].length;
+
+        int[] row = new int[n];
+        int[] col = new int[m];
 
         int ans = 0;
 
+        // fill
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 1) {
+                    row[i]++;
+                    col[j]++;
+                }
+            }
+        }
 
-                if (grid[i][j] != 0) {
-                    if (searchRow(grid, i, j, grid[i][j]) || searchCol(grid, i, j, grid[i][j])) {
+        // fill
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 1) {
+                    if (row[i] > 1 || col[j] > 1) {
                         ans++;
                     }
                 }
-                // end
             }
         }
 
         return ans;
-        // return
-    }
-
-    // sear4ch row
-    public boolean searchRow(int[][] grid, int row, int col, int num) {
-        for (int i = 0; i < n; i++) {
-            if (i == row)
-                continue;
-
-            if (grid[i][col] == num)
-                return true;
-        }
-
-        return false;
-    }
-
-    // search cols
-    public boolean searchCol(int[][] grid, int row, int col, int num) {
-        for (int i = 0; i < m; i++) {
-            if (i == col)
-                continue;
-
-            if (grid[row][i] == num)
-                return true;
-        }
-
-        return false;
+        // end
     }
 }
