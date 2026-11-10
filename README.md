@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AdnanCodist/leetCodeWork/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AdnanCodist/leetCodeWork/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3524-find-x-value-of-array-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdnanCodist/leetCodeWork/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdnanCodist/leetCodeWork/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/3904-smallest-stable-index-ii/) | Medium |
