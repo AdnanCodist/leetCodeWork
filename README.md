@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1882-process-tasks-using-servers](https://github.com/AdnanCodist/leetCodeWork/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AdnanCodist/leetCodeWork/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AdnanCodist/leetCodeWork/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdnanCodist/leetCodeWork/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdnanCodist/leetCodeWork/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
