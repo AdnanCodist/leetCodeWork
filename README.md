@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-brace-expansion-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/AdnanCodist/leetCodeWork/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdnanCodist/leetCodeWork/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AdnanCodist/leetCodeWork/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AdnanCodist/leetCodeWork/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Recursion
