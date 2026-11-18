@@ -1,84 +1,103 @@
 class Solution {
+    int n;
+    String s;
 
-    public int minimumChanges(String s, int k) {
+    int[][] memoRange;
+    int[][] memoCost;
 
-        int n = s.length();
-        int INF = 1000000;
+    public int minimumChanges(String str, int k) {
+        s = str;
+        n = s.length();
 
-        // STAGE 1: Precompute substring costs
-        int[][] cost = new int[n][n];
+        memoRange = new int[n][k + 1];
+        filler(memoRange);
 
-        for (int[] row : cost) {
-            Arrays.fill(row, INF);
-        }
+        memoCost = new int[n][n];
+        filler(memoCost);
 
-        for (int len = 2; len <= n; len++) {
+        return solver(0, k);
+    }
 
-            for (int i = 0; i + len <= n; i++) {
-
-                // Try every valid divisor
-                for (int d = 1; d < len; d++) {
-
-                    if (len % d != 0) {
-                        continue;
-                    }
-
-                    int groupSize = len / d;
-                    int changes = 0;
-
-                    // Process all d groups
-                    for (int r = 0; r < d; r++) {
-
-                        // Compare mirrored characters
-                        for (int t = 0; t < groupSize / 2; t++) {
-
-                            int left = i + r + t * d;
-
-                            int right = i + r
-                                    + (groupSize - 1 - t) * d;
-
-                            if (s.charAt(left) != s.charAt(right)) {
-                                changes++;
-                            }
-                        }
-                    }
-
-                    cost[i][i + len - 1] = Math.min(cost[i][i + len - 1], changes);
-                }
+    public int solver(int start, int k) {
+        // base
+        if (k == 0) {
+            if (start == n) {
+                return 0;
             }
+
+            return Integer.MAX_VALUE;
         }
 
-        // STAGE 2: Partition DP
-
-        int[][] dp = new int[k + 1][n + 1];
-
-        for (int[] row : dp) {
-            Arrays.fill(row, INF);
+        // failure case
+        if ((start + 2 * k) > n) {
+            return Integer.MAX_VALUE;
         }
 
-        // Base case
-        dp[0][0] = 0;
+        //memo
+        if (memoRange[start][k] != -1) {
+            return memoRange[start][k];
+        }
 
-        // Number of substrings
-        for (int p = 1; p <= k; p++) {
+        int minCost = Integer.MAX_VALUE;
 
-            // Prefix length
-            for (int i = 2 * p; i <= n; i++) {
+        for (int end = start + 1; end < n; end++) {
+            int getRest = solver(end + 1, k - 1);
 
-                // Starting position of last substring
-                for (int start = 2 * (p - 1); start <= i - 2; start++) {
+            if (getRest == Integer.MAX_VALUE) {
+                continue;
+            }
 
-                    if (dp[p - 1][start] == INF) {
-                        continue;
+            minCost = Math.min(minCost, getRest + getCost(start, end));
+        }
+
+        return memoRange[start][k] = minCost;
+        // return 
+    }
+
+    public int getCost(int i, int j) {
+
+        if (memoCost[i][j] != -1) {
+            return memoCost[i][j];
+        }
+
+        int len = j - i + 1;
+
+        int minAns = Integer.MAX_VALUE;
+
+        for (int d = 1; d < len; d++) {
+
+            if (len % d != 0)
+                continue;
+
+            int cost = 0;
+
+            for (int group = 0; group < d; group++) {
+
+                int l = i + group;
+                int r = l + ((len / d) - 1) * d;
+
+                while (l < r) {
+                    if (s.charAt(l) != s.charAt(r)) {
+                        cost++;
                     }
 
-                    dp[p][i] = Math.min(
-                            dp[p][i],
-                            dp[p - 1][start] + cost[start][i - 1]);
+                    l += d;
+                    r -= d;
                 }
+
             }
+
+            minAns = Math.min(minAns, cost);
         }
 
-        return dp[k][n];
+        return memoCost[i][j] = minAns;
+        // return
+    }
+
+    public void filler(int[][] memo) {
+
+        for (int[] arr : memo) {
+            Arrays.fill(arr, -1);
+        }
     }
 }
