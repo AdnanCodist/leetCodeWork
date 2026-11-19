@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AdnanCodist/leetCodeWork/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AdnanCodist/leetCodeWork/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/AdnanCodist/leetCodeWork/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdnanCodist/leetCodeWork/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdnanCodist/leetCodeWork/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AdnanCodist/leetCodeWork/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/AdnanCodist/leetCodeWork/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/AdnanCodist/leetCodeWork/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
