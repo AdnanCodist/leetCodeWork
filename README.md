@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AdnanCodist/leetCodeWork/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AdnanCodist/leetCodeWork/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AdnanCodist/leetCodeWork/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AdnanCodist/leetCodeWork/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AdnanCodist/leetCodeWork/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AdnanCodist/leetCodeWork/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AdnanCodist/leetCodeWork/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AdnanCodist/leetCodeWork/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdnanCodist/leetCodeWork/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdnanCodist/leetCodeWork/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/AdnanCodist/leetCodeWork/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AdnanCodist/leetCodeWork/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdnanCodist/leetCodeWork/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/AdnanCodist/leetCodeWork/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/AdnanCodist/leetCodeWork/tree/main/0733-flood-fill/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/AdnanCodist/leetCodeWork/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AdnanCodist/leetCodeWork/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,4 +289,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AdnanCodist/leetCodeWork/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AdnanCodist/leetCodeWork/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 <!---LeetCode Topics End-->
