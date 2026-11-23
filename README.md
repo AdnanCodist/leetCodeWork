@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/0039-combination-sum/) | Medium |
+| [0057-insert-interval](https://github.com/AdnanCodist/leetCodeWork/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/AdnanCodist/leetCodeWork/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdnanCodist/leetCodeWork/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
