@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-product-of-the-last-k-numbers](https://github.com/AdnanCodist/leetCodeWork/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdnanCodist/leetCodeWork/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AdnanCodist/leetCodeWork/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/AdnanCodist/leetCodeWork/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -276,10 +277,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/AdnanCodist/leetCodeWork/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/AdnanCodist/leetCodeWork/tree/main/0547-number-of-provinces/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/AdnanCodist/leetCodeWork/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdnanCodist/leetCodeWork/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/AdnanCodist/leetCodeWork/tree/main/0547-number-of-provinces/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdnanCodist/leetCodeWork/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,4 +308,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/AdnanCodist/leetCodeWork/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdnanCodist/leetCodeWork/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdnanCodist/leetCodeWork/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdnanCodist/leetCodeWork/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdnanCodist/leetCodeWork/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
