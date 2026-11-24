@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AdnanCodist/leetCodeWork/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/AdnanCodist/leetCodeWork/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdnanCodist/leetCodeWork/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AdnanCodist/leetCodeWork/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdnanCodist/leetCodeWork/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdnanCodist/leetCodeWork/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1401-circle-and-rectangle-overlapping](https://github.com/AdnanCodist/leetCodeWork/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AdnanCodist/leetCodeWork/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AdnanCodist/leetCodeWork/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/AdnanCodist/leetCodeWork/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdnanCodist/leetCodeWork/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/AdnanCodist/leetCodeWork/tree/main/3870-count-commas-in-range/) | Easy |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdnanCodist/leetCodeWork/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdnanCodist/leetCodeWork/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdnanCodist/leetCodeWork/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AdnanCodist/leetCodeWork/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,4 +328,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdnanCodist/leetCodeWork/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AdnanCodist/leetCodeWork/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AdnanCodist/leetCodeWork/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
